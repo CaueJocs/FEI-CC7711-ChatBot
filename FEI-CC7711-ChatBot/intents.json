@@ -9,43 +9,37 @@
       "tag": "sobre_pipe",
       "patterns": ["O que é o PIPE?", "Explique o PIPE", "Como funciona o PIPE?"],
       "responses": [
-        "O PIPE apoia inovação tecnológica em pequenas empresas.",
-        "Programa da FAPESP para pesquisa em pequenas empresas."]
+        "O PIPE apoia inovação tecnológica em pequenas empresas."]
     },
     {
       "tag": "elegibilidade",
       "patterns": ["Quem pode participar do PIPE?", "Quais são os critérios de elegibilidade?"],
       "responses": [
-        "Empresas com até 250 funcionários em SP.",
-        "Pequenas empresas sediadas em São Paulo."]
+        "Empresas com até 250 funcionários em SP."]
     },
     {
       "tag": "submissao_projeto",
       "patterns": ["Como submeter um projeto?", "Quais são os passos para submeter um projeto?"],
       "responses": [
-        "Submissão pelo SAGe com documentos exigidos.",
-        "Cadastro no SAGe e envio conforme edital."]
+        "Submissão pelo SAGe com documentos exigidos."]
     },
     {
       "tag": "documentos_necessarios",
       "patterns": ["Quais documentos preciso para o PIPE?", "Quais são os documentos obrigatórios?"],
       "responses": [
-        "Plano de Pesquisa, Orçamento, Currículos e Documentação da Empresa.",
-        "Plano de Trabalho, Currículos e documentos do edital."]
+        "Plano de Pesquisa, Orçamento, Currículos e Documentação da Empresa."]
     },
     {
       "tag": "prazos",
       "patterns": ["Qual é o prazo para submissão?", "Até quando posso enviar meu projeto?"],
       "responses": [
-        "Verifique as datas no site da FAPESP.",
-        "Consulte o edital vigente para prazos."]
+        "Consulte as chamadas no site oficial da FAPESP."]
     },
     {
       "tag": "contato",
       "patterns": ["Como entro em contato com a FAPESP?", "Onde posso tirar dúvidas?"],
       "responses": [
-        "E-mail e telefone disponíveis no site da FAPESP.",
-        "Consulte os canais oficiais no site da FAPESP."]
+        "Acesse o portal de contato da FAPESP pelo link: https://fapesp.br/converse."]
     },
     {
       "tag": "despedida",
